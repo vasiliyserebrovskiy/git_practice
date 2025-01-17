@@ -13,3 +13,4 @@ const createMessage = () => {
     return message
 }
 
+console.log(createMessage())
